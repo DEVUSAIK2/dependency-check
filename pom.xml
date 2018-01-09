@@ -32,13 +32,13 @@
    <groupId>org.owasp</groupId>
   <artifactId>dependency-check-maven</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <executions>
+  <!--   <executions>
         <execution>
                 <goals>
                     <goal>check</goal>
                     </goals>
             </execution>
-                </executions>
+                </executions>  -->
     <packaging>pom</packaging>
     <name>dependency-check</name>
     <url>http://www.triology.de</url>
