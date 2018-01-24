@@ -36,7 +36,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <dependency-check-format>JSON</dependency-check-format>
+        <dependency-check-format>JSON1</dependency-check-format>
     </properties>
 
     <modules>
